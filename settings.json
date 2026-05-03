@@ -7,8 +7,8 @@
   },
   "server": {
     "ip": "Managil-EA.aternos.me",
-    "port": 27586,
-    "version": "",
+    "port": 26294,
+    "version": "1.21.4",
     "try-creative": false
   },
   "position": {
